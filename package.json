@@ -1,0 +1,23 @@
+{
+  "name": "tute",
+  "version": "0.0.1",
+  "description": "tute cabrero",
+  "main": "tute.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilioplatzer/tute.git"
+  },
+  "keywords": [
+    "tute",
+    "cabrero"
+  ],
+  "author": "Emilio Platzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilioplatzer/tute/issues"
+  },
+  "homepage": "https://github.com/emilioplatzer/tute#readme"
+}
